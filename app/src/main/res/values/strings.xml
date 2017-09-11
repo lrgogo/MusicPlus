@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Music++</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="record">录制</string>
+    <string name="preview">预览</string>
+    <string name="re_record">重录</string>
+    <string name="add_music_track">添加音轨</string>
+    <string name="complete_record">完成录制</string>
+    <string name="record_exclude_video_audio">不包含视频音轨</string>
+    <string name="record_include_video_audio">包含视频音轨</string>
+    <string name="mix_audios">单纯混音</string>
+    <string name="please_wait">可能要耗时比较长，请耐心等待</string>
+    <string name="mix_video_success">合成视频成功</string>
+    <string name="execute_mix_audio">开始混音</string>
+    <string name="play_mix_audio">播放混音</string>
+    <string name="pause_play">暂停播放</string>
+    <string name="continue_play">继续播放</string>
+</resources>
